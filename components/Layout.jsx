@@ -6,7 +6,7 @@ const Layout = ({ children }) => (
   <>
     <Head>
       <link rel="icon" href="/favicon.png" />
-      <title>Pranav's Blog</title>
+      <title>Qfinder's Blog</title>
     </Head>
     <Header />
     {children}
